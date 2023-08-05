@@ -132,29 +132,29 @@
 }
 
 .theme-dark {
-  --background-primary: #1c1c1c;
-  --background-secondary: #242424;
-  --background-secondary-alt: #202020;
-  --background-tertiary: #181818;
-  --background-accent: #2d2d2d;
+  --background-primary: #050505;
+  --background-secondary: #050505;
+  --background-secondary-alt: #050505;
+  --background-tertiary: #050505;
+  --background-accent: #050505;
 
-  --modal-background: #1c1c1c;
-  --background-mobile-primary: #1c1c1c;
-  --background-mobile-secondary: #242424;
-  --channeltextarea-background: #202020;
+  --modal-background: #23283d;
+  --background-mobile-primary: #23283d;
+  --background-mobile-secondary: #1e2233;
+  --channeltextarea-background: #191f2e;
   --background-message-hover: transparent;
   --background-modifier-hover: #00000010;
   --background-modifier-active: #0000001a;
   --background-modifier-selected: #0000001f;
-  --deprecated-card-bg: #14141463;
-  --background-floating: #181818;
-  --deprecated-quickswitcher-input-background: #181818;
+  --deprecated-card-bg: #12141f63;
+  --background-floating: #101320;
+  --deprecated-quickswitcher-input-background: #101320;
   --elevation-low: none;
-  --scrollbar-auto-thumb: #1c1c1c;
-  --scrollbar-auto-track: #202020;
-  --scrollbar-thin-thumb: #171717;
-  --activity-card-background: #181818;
-  --input-background: #242424;
+  --scrollbar-auto-thumb: #121722;
+  --scrollbar-auto-track: #191f2e;
+  --scrollbar-thin-thumb: #141925;
+  --activity-card-background: #101320;
+  --input-background: #1e2233;
 }
 
 .theme-light {
